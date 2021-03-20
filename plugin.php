@@ -4,7 +4,7 @@
  * @package CommingSoon
  *
  *
- * Plugin Name: Comming Soon
+ * Plugin Name: WP Comming Soon
  * Plugin URI: https://github.com/chaschin/wp-comming-soon
  * Description: Add Comming Soon page for non autorized users
  * Version: 1.0
